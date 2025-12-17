@@ -17,3 +17,4 @@ do
                 check_ip "$name" "$ip" "8.8.8.8"
         fi
 done
+echo "David Popa"
